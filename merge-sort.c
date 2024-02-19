@@ -97,10 +97,4 @@ int main()
 	return 0;
 }
 
-/*
-Sayýn Yrd. Prof. Dr. Çoruh,
 
-Ben 1. sýnýf lisans öðrencilerinizden Mert Abdullahoðlu. 16/02/2024 tarihindeki derste yazdýðýmýz insertion sort kodunu Github'a yükleyip linkini sizinle paylaþmamýzý istemiþtiniz. 
-
-Saygýlarýmla
-*/
